@@ -1,0 +1,58 @@
+body {
+    width: 960px;
+   font-size-adjust: inherit;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    background-color:lightskyblue;
+}
+
+    
+header { 
+    width: 495px;
+    background-color: #777;
+    font-size: 18px;
+    color: purple;
+    text-align: center
+
+}
+
+.nav {
+    width: 495px;
+    text-align: center;
+    background-color: lightsalmon;
+}
+.section {
+    width: 495px;
+    background-color:lightgoldenrodyellow;
+
+}
+
+article {
+    width: 495px;
+    color:darkblue;
+    background-color:lightsteelblue;
+
+}
+
+
+h1 {
+    width: 495px;
+    padding: 6px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+    color: darkgreen;
+    background-color: #ebebeb;
+
+}
+
+.container {
+    color: red;
+}
+
+.footer {
+    
+    font-style: italic;
+}
